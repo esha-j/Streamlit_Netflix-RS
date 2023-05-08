@@ -10,8 +10,6 @@ import pandas as pd
 import streamlit as sl
 from streamlit_option_menu import option_menu
 import streamlit.components.v1 as html
-from  PIL import Image
-from st_aggrid import AgGrid
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import linear_kernel
 
