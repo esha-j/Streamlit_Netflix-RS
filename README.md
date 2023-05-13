@@ -16,7 +16,7 @@ pip install pandas
 pip install numpy
 ```
 
-### Cosine Similarity Function
+### Cosine Similarity Function Formula
 
 ```
 similarity(A,B) = cos θ = (A.B)/(||A||||B||)
